@@ -5,8 +5,8 @@ This project is intended to produce a mental health dashboard that allows policy
 Programming language: R
 
 ## Example visualisations
-* GHQ scores in London by LSOA ![GHQ scores in London by LSOA](./images/London.png)
+#### GHQ scores in London by LSOA ![GHQ scores in London by LSOA](./images/London.png)
 <br/>
-* GHQ scores in London Barking by LSOA ![GHQ scores in London Barking by LSOA](./images/Barking.png)
+#### GHQ scores in London Barking by LSOA ![GHQ scores in London Barking by LSOA](./images/Barking.png)
 <br/>
-* GHQ scores in London Kensington & Chelsea by LSOA ![GHQ scores in London Kensington & Chelsea by LSOA](./images/Chelsea.png)
+#### GHQ scores in London Kensington & Chelsea by LSOA ![GHQ scores in London Kensington & Chelsea by LSOA](./images/Chelsea.png)
