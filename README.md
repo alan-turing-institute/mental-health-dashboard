@@ -1,6 +1,6 @@
 # Mental Health Dashboard
 
-This project is intended to produce a mental health dashboard that allows policy stakeholders to visualise and explore small-area estimates of self-reported mental well-being
+This project is intended to produce a mental health dashboard that allows policy stakeholders to visualise and explore small-area estimates of self-reported mental well-being.
 
 Programming language: R
 
